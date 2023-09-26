@@ -66,7 +66,7 @@ NameError: undefined local variable or method `some_variable' for main:Object
 
 ## Step 3 - Use Github Flavored Markdown Task Lists
 
-Github extends Markdown to have a list where you can check off items. <sup>[1]</sup>](#external-references)
+Github extends Markdown to have a list where you can check off items. [<sup>[1]</sup>](#external-references)
 
 
 - [x] Finish Step 1

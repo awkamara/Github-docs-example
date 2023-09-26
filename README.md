@@ -45,11 +45,11 @@ end
 puts "The sum of the numbers is: #{sum}"
 ```
 
-Make note of where the backtick button is located.
-It should appear above the tab key, but it may vary based on your keyboard layout.
+- Make note of where the backtick keyboard key is located.
+- It should appear above the tab key,
+- but it may vary based on your keyboard layout.
 
-
-<img width="550px" alt="backtick-key" src="https://github.com/awkamara/github-docs-example/assets/145500282/04c41d47-ee85-4143-9983-913ae7c677dd">
+<img width="550px" alt="backtick-key" src="backtick-key.png)" />
 
 Good Cloud Engineers use codeblocks for both Code and Errors that appear in the console.
 
@@ -95,6 +95,10 @@ You can use the following markdown format to create tables:
 | Cloud with lighting | `:cloud_with_lighting:` | 🌩️ |
 ```
  Github extends the functionality of Markdown tables to provide alignment and table cell formatting option. [<sup>[2]</sup>](#external-references)
+
+- Make note of where the pipe keyboard is located.
+- It should appear above the return or enter key,
+- but it may vary based on your keyboard layout.
  
  ![Photo of the pipe character on the keyboard](assets/pipe-char.png)
  

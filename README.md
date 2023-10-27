@@ -170,6 +170,8 @@ You can use the following markdown format to create tables:
 - but it may vary based on your keyboard layout.
  
  ![Photo of the pipe character on the keyboard](assets/pipe-char.png)
+
+[Secret Window Hidden Garden](secret-window/hidden-garden.md)
  
 
  ## External References

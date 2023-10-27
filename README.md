@@ -83,7 +83,7 @@ This is what a screenshot from your computer should look like
 
 **DO THIS INSTEAD**
 
-![screenshot example](Screenshot-example.png)
+![a screenshot example](assets/Screenshot-example.png)
 
 To take screenshots on both Mac and Windows, you can use built-in hotkeys or keyboard shortcuts. Here are the common methods for taking screenshots on both platforms:
 

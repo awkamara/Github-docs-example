@@ -49,7 +49,7 @@ puts "The sum of the numbers is: #{sum}"
 - It should appear above the tab key,
 - but it may vary based on your keyboard layout.
 
-<img width="550px" src="assets/backtick.jpeg)" />
+![a photo of the backtick key on your key board](assets/backtick.jpeg) 
 
 Good Cloud Engineers use codeblocks for both Code and Errors that appear in the console.
 
@@ -64,19 +64,26 @@ NameError: undefined local variable or method `some_variable' for main:Object
 
 > Here is an example of using a codeblock for an error that appears in bash.
 
+When you can always provide a codeblock instead of a screenshot.
+If you need to take a screenshot make sure it nots a photo from your phone.
+
+> There are certain cases where its okay to take photos with your phone. This is when you are showing something like a keyboard, which does not appear on a computer screen. If it render on your computer screen it should be a screenshot.
+
 ## Step 1 - How to take screenshots
 
 A screenshot is when you capture a part of your screen from your laptop, desktop or phone.
 
-This is not be confused with your phone.
+This is not be confused with taking a photo with your phone.
 
 **DON'T DO THIS**
 
 ![a photo with your phone](assets/phone-photo.jpg)
 
-Th is what a screenshot from your computer should look like
+This is what a screenshot from your computer should look like
 
 **DO THIS INSTEAD**
+
+![screenshot example](Screenshot-example.png)
 
 To take screenshots on both Mac and Windows, you can use built-in hotkeys or keyboard shortcuts. Here are the common methods for taking screenshots on both platforms:
 
